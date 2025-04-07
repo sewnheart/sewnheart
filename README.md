@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgur.com/XdmxYIF.png"/>
+  <img src="https://i.imgur.com/XOWWpBV.png"/>
 </p>
